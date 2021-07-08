@@ -1,0 +1,7 @@
+{
+  "set" : "../Toodles/Assets.xcassets/AppIcon.appiconset",
+  "remove-alpha" : true,
+  "source" : "./ice-cream-shop.svg",
+  "geometry" : null,
+  "background" : "#FFFFFFFF"
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "035-signage.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
